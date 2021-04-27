@@ -6,7 +6,7 @@ Para ello usaremos Factory Method, que nos permitira crear distintos tipos de ta
 
 
 Diagrama de clases:
-![alt text](https://github.com/juslan/Patron-Creacional/Diagrama de clases Patron creacional.png)
+![Aqui se mostraria el diagrama de clases](https://raw.githubusercontent.com/juslan/Patron-Creacional/master/Diagrama de clases Patron creacional.png)
 
 Diagrama de secuencia:
-![alt text](https://github.com/juslan/Patron-Creacional/Diagrama de secuencia.png)
+![Aqui se mostraria el diagrama de secuencia](https://raw.githubusercontent.com/juslan/Patron-Creacional/master/Diagrama de secuencia.png)
